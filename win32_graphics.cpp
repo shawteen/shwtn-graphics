@@ -229,7 +229,7 @@ int APIENTRY WinMain(HINSTANCE hInstance,
             f32 Depth = powf(2.0f, TriangleId + 1);
             v3 Points[3] =
                 {
-                    V3(-10.0f, -0.5f, Depth),
+                    V3(-1.0f, -0.5f, Depth),
                     V3(0.0f, 0.5f, Depth),
                     V3(1.0f, -0.5f, Depth),
 
