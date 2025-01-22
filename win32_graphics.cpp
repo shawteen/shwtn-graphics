@@ -1,7 +1,7 @@
 #include <math.h>
 #include <windows.h>
 
-#include "win32_graphic.h"
+#include "win32_graphics.h"
 #include "graphics_math.cpp"
 
 
