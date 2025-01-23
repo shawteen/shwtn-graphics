@@ -1,6 +1,10 @@
 # shwtn-graphics
 A from-scratch Windows software renderer implementing core graphics fundamentals in C++
 
+## Build instruction 
+run the 
+```.\build.bat```
+in code directory
 
 
 ### Repository structure:
@@ -20,3 +24,6 @@ A from-scratch Windows software renderer implementing core graphics fundamentals
   ├── build_win32/
   └── (build directory)
 ```
+
+The current state of program: 
+![preview](image.png)
